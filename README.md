@@ -1,0 +1,2 @@
+# Lixos
+A basic OS
