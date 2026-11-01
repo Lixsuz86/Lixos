@@ -1,0 +1,20 @@
+# Build artifacts and object files
+build/
+*.o
+*.elf
+*.iso
+*.img
+*.ppm
+*.bin.tmp
+
+# Logs and runtime dumps
+*.log
+*.dump
+
+# Operating System & IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
